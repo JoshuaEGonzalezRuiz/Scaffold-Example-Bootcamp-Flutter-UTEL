@@ -1,6 +1,6 @@
 # Scaffold Example (class)
 
-Project developed during class 2 of Module 1 to demonstrate the functionality of the "BottomNavigationBar" Widget in Flutter as part of the "Scaffold" Widget.
+Project developed during class 2 of Module 1 to demonstrate the functionality of the "Scaffold" Widget.
 
 ## How to use?
 
